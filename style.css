@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    color: black;
+    margin: 0;
+    background-color: white;
+
+}
+
+
+.title {
+    text-align: center;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+
+.table{
+    border-collapse: collapse;
+    width:  90%;
+    padding: 5px 10px;
+    margin: 20px;
+    table-layout: fixed;
+
+}
+
+
+.table thead th {
+    background-color:#dbdada;
+    text-align: center;
+    color: #000000;
+    border: 1px solid #0f006e;
+    padding: 5px 10px;
+    font-weight: bold;
+    }
+
+    .table tbody td {
+        background-color:#e1e2e3;
+        text-align: left;
+        color: #1e1ed2;
+    border: 1px solid #0f006e;
+    padding: 5px 10px;
+    }
+
+
+
